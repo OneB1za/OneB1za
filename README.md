@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Kirill!
 
 ## 🚀 About Me:
-I'm exploring the exciting world of DevOps and learning how to build efficient and reliable systems.
+I'm exploring the world of DevOps and learning how to build efficient and reliable systems.
 Currently, I'm deepening my knowledge in automation, cloud technologies, and infrastructure management.
 I also enjoy working with Python, using it to simplify tasks and improve workflows as I grow my skills in this area.
 
