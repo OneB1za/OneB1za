@@ -17,17 +17,14 @@ I also enjoy working with Python, using it to simplify tasks and improve workflo
 
 ### **Databases:**
 - PostgreSQL
-- SQL basics for analytics and management
+- SQL basics 
 
 ---
 
 ## 🐍 Python:
-Python enthusiast
 - **Web Development:** Experimenting with frameworks like FastAPI and Django mostly.
-- **Automation:** Writing scripts to simplify DevOps tasks and workflows.
-- **Custom Tools:** Building utilities and small applications to solve real-world problems.
-
-I'm constantly improving my Python skills and discovering new ways to apply it in DevOps and beyond.
+- **Automation:** Writing scripts to simplify DevOps workflows.
+- **Custom Tools:** Building utilities and small applications.
 
 ---
 
